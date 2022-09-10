@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="password">password</string>
+    <string name="signup">SignUp</string>
+    <string name="nitin">Nitin</string>
+    <string name="message">Message</string>
+    <string name="profile">Profile</string>
+    <string name="save">SAVE</string>
+    <string name="log_out">Log Out</string>
+</resources>
